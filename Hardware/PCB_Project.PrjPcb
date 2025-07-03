@@ -1907,10 +1907,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for PCB_Project\PCB_Project.xlsx
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Sources
 ParameterCount=0
